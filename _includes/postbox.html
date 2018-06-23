@@ -1,0 +1,36 @@
+{% for post in paginator.posts limit:3 %}
+    <!-- begin post -->
+    {% assign author = site.authors[post.author] %}
+    <div class="col-md-12 grid-item">
+
+        <div class="card-container {% if forloop.last == false %}bottom-border{% endif %}">
+            
+            <div class="row">
+                
+                <div class="col-md-3">
+                    <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                    <span class="post-date">{{ post.date | date_to_string }}</span>
+                </div>
+                
+                <div class="col-md-{% if post.image %}6{% else %}9{% endif %}">
+                    <div class="card">
+                        <div class="card-block">
+                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:40 }}</h4>
+                            <!--<span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>-->
+                        </div>
+                    </div>
+                </div>
+            
+            </div>
+            
+            {% if post.image %}
+                <div class="col-md-3">
+                    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/7.jpg" alt="{{ post.title }}">
+                </div>
+            {% endif %}
+        
+        </div>
+        
+    </div>
+    <!-- end post -->
+{% endfor %}

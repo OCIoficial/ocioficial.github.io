@@ -1,0 +1,40 @@
+# Site
+name: OCI
+description: Olimpiadas Chilenas de Informática
+meta_description: "Olimpiadas Chilenas de Informática"
+logo: 'assets/images/logo_oci.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: 
+email: 'contacto@olimpiada-informatica.cl'
+#google_analytics: ''
+disqus: 'demowebsite'
+#sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  admin:
+    name: OCI
+    display_name: Equipo OCI
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: contacto@olimpiada-informatica.cl
+    web: https://www.olimpiada-informatica.cl
+    twitter: https://twitter.com/progcompcl
+    description: ""
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge

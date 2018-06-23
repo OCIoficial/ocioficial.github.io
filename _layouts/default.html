@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">    
+    <title>{{ page.title }} | {{site.name}}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}    
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+</head>
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+    <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="container paddingless">
+
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+            </a>
+
+            <div class="collapse navbar-collapse" id="navbarsWow">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">                
+                    <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/acercade">Acerca de</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/sedes">Sedes</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/competencia">Competencia</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/prensa">Prensa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/contacto">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+    </header>
+
+    <div class="site-content">
+        
+        <div class="container">
+            <div class="main-content">
+                {{ content }}
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <div class="footer-widget">
+                            <h5 class="title">Olimpiadas Chilenas de Informática</h5>
+                            <p>Copyright © {{ site.time | date: "%Y" }}</p>
+                            <a href="https://twitter.com/progcompcl" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_twitter.png" /></a>
+                            &nbsp;
+                            <a href="https://facebook.com/progcompCL" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_facebook.png" /></a>
+                            &nbsp;
+                            <a href="https://github.com/ocioficial" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_github.png" /></a>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-2">
+                        <div class="footer-widget">
+                            <h5 class="title">RECURSOS</h5>
+                            <ul>
+                                <li><a href="{{ site.baseurl }}/competencia">Competencia</a></li>
+                                <li><a href="{{ site.baseurl }}/problemas">Problemas</a></li>
+                                <li><a href="#">Repositorio</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-2">
+                        <div class="footer-widget">
+                            <h5 class="title">ACERCA DE</h5>
+                            <ul>
+                                <li><a href="{{ site.baseurl }}/historia">Historia</a></li>
+                                <li><a href="{{ site.baseurl }}/sedes">Sedes</a></li>
+                                <li><a href="{{ site.baseurl }}/contacto">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="footer-widget textwidget text-right">
+                            <h5 class="title">International Olympiad in Informatics</h5>
+                            <a href="http://www.ioinformatics.org" target="_blank"><img src="{{ site.baseurl }}/assets/images/logo_ioi_small.png"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div> 
+        
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
+</body>
+
+</html>
