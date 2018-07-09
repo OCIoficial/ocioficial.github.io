@@ -3,28 +3,14 @@ layout: page
 title: Competencia
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum.
+### ¿Cómo funciona la competencia?
+La competencia es de carácter individual, e involucra resolver problemas a través de programas computacionales, utilizando los lenguajes C, C++ o Pascal. 
+![competencia proceso img](assets/images/aprendizaje_proceso.jpg)
 
-Culpa nobis veniam id sint unde. Similique consequatur voluptatum qui
-atque minima dolores ut id. Vero aut ea cum. Nobis hic qui et. Consectetur
-autem qui animi et et ut iste. Consequuntur in eos in natus voluptatem
-nam impedit.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore
-t dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid
-ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in e
-voluptate velit esse quam nihil molestiae consequatur, vel illum qui
-dolorem eum fugiat quo voluptas nulla pariatur?
+La OCI se desarrolla en dos etapas e involucra escuelas de formación para introducir a los concursantes a la programación, o mejorar las habilidades que ya poseen. La primera etapa es distribuida en distintas ciudades.
+ 
+Para el 2016, las ciudades que se han sumado a los talleres de preparación OCI son Arica, Iquique, Valparaíso, Santiago, Curicó, Talca, Chillán, Concepción y Temuco. Todas ellas serán sedes de la Competencia Regional del sábado 8 de octubre (simultáneamente en todo el país).
+ 
+Cada sede clasifica un determinado número de estudiantes (según participación y desempeño) a la segunda etapa, la Competencia Nacional de la OCI, que este año se realiza el sábado 12 de noviembre en la Universidad Técnica Federico Santa María (campus Santiago).
+ 
+Los participantes con mejor desempeño en la final nacional pasan a formar parte del equipo nacional y son invitados a un campamento de entrenamiento avanzado a llevarse a cabo durante enero de 2017. De los integrantes del equipo nacional se seleccionan los 4 representantes de Chile en la IOI 2017 (Teherán, Irán).
