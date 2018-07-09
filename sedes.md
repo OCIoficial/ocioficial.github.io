@@ -3,28 +3,38 @@ layout: page
 title: Sedes
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum.
-
-Culpa nobis veniam id sint unde. Similique consequatur voluptatum qui
-atque minima dolores ut id. Vero aut ea cum. Nobis hic qui et. Consectetur
-autem qui animi et et ut iste. Consequuntur in eos in natus voluptatem
-nam impedit.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore
-t dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid
-ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in e
-voluptate velit esse quam nihil molestiae consequatur, vel illum qui
-dolorem eum fugiat quo voluptas nulla pariatur?
+### ARICA
+* **Raúl Herrera** | UTA | <rherrera@uta.cl>
+ 
+### IQUIQUE
+* **Jorge Díaz** | UTA | <jdiazr@academicos.uta.cl>
+ 
+### VALPARAISO
+* **Miguel Solís** | UNAB | <miguel.solis@unab.cl>
+* **Roberto León** | UNAB | <roberto.leon@unab.cl>
+* **Romina Torres** | UNAB | <romina.torres@unab.cl>
+* **Sergio Campos** | UTFSM | <sergio.camposc@usm.cl>
+ 
+### SANTIAGO DE CHILE 
+* **Alejandra Acuña** | UMayor |  <alejandra.acuna@umayor.cl>
+* **Claudio Álvarez**  | UAndes | <calvarez1@miuandes.cl>
+* **Cristian Ruz** | PUC | <cristian.ruz@gmail.com>
+* **Jorge Perez** | UChile | <jorge.perez.rojas@gmail.com>
+* **Mery Palacios** | Instituto Nacional | <mery.palas@gmail.com>
+* **Pedro Godoy Barrera** | UTFSM | <pedro.godoy@usm.cl>
+* **Taller "Niñas Pro(gramadoras)"** | <http://ninasprogramadoras.cl> | <ninasprogramadoras@gmail.com>
+ 
+### TALCA
+* **Rodrigo Cofré** | UCM | <rcofre@ucm.cl>
+* **Hugo Araya** | UCM | <haraya@spock.ucm.cl>
+ 
+### CHILLÁN
+* **Marcela Pinto** | UBB | <marcela@ubiobio.cl>
+ 
+### CONCEPCIÓN
+* **Diego Seco** | UdeC | <dseco@udec.cl>
+* **Mónica Caniupán** | UBB | <mcaniupa@ubiobio.cl>
+* **Claudia Martínez** | UCSC | <cmartinez@ucsc.cl>
+ 
+### TEMUCO
+* **Oriel Herrera** | UCT | <oherrera@inf.uct.cl>
