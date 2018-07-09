@@ -20,29 +20,29 @@ Seleccionar a los concursantes que representarán a Chile en la Olimpiada Intern
 Versiones anteriores de OCI y participación en IOI
 La competencia nacional de la OCI se ha realizado en cuatro versiones anteriormente. La primera de ellas se realizó el primer semestre del año 2013, en la ciudad de Santiago, y clasificó a cuatro alumnos para participar en la IOI 2013. La segunda versión de la OCI se realizó en noviembre de 2013 en la ciudad de Temuco. La tercera versión se realizó en noviembre de 2014 en Talca. En el año 2015 la final nacional de la OCI se realizó en la ciudad de Santiago en el mes de noviembre.
  
-####Participación en IOI
-*IOI 2016 Kazan - Rusia*
+#### Participación en IOI
+**IOI 2016 Kazan - Rusia**
  
 Javier Oliva - Lycée Charles de Gaulle, Concepción
 Willem Stuijt - The Grange School, Santiago
 Alexis Espinoza - San Ignacio de Concepción
 Benjamin Aguilar - Instituto Nacional José Miguel Carrera
  
-*IOI 2015 - Almaty, Kazajistán*
+**IOI 2015 - Almaty, Kazajistán**
  
 Javier Oliva - Lycée Charles de Gaulle, Concepción
 Nicolas Mosnaim - The Kent School, Santiago - Universidad de Chile
 Benjamín Aguilar - Instituto Nacional José Miguel Carrera
 Leandro Cerna - Liceo Politécnico Andes - Universidad Técnica Federico Santa María
  
-*IOI 2014  Taipei, Taiwán*
+**IOI 2014  Taipei, Taiwán**
  
 Robinson Castro - Instituto Nacional José Miguel Carrera - Universidad de Chile 
 Nicolas Mosnaim - The Kent School, Santiago - Universidad de Chile
 Nicolas Mariangel - Instituto Nacional José Miguel Carrera - Universidad de Santiago de Chile 
 Lucas Cabello - Colegio Mayor de Peñalolén - Universidad de Chile
  
-*IOI 2013 Brisbane, Australia*
+**IOI 2013 Brisbane, Australia**
  
 Robinson Castro - Instituto Nacional José Miguel Carrera, Santiago - Universidad de Chile
 Gabriel Norambuena - Instituto Nacional José Miguel Carrera, Santiago - Universidad de Chile
