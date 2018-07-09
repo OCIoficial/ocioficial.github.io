@@ -17,7 +17,7 @@ Seleccionar a los concursantes que representarán a Chile en la Olimpiada Intern
 
 ### Historia
 
-Versiones anteriores de OCI y participación en IOI
+#### Versiones anteriores de OCI y participación en IOI
 La competencia nacional de la OCI se ha realizado en cuatro versiones anteriormente. La primera de ellas se realizó el primer semestre del año 2013, en la ciudad de Santiago, y clasificó a cuatro alumnos para participar en la IOI 2013. La segunda versión de la OCI se realizó en noviembre de 2013 en la ciudad de Temuco. La tercera versión se realizó en noviembre de 2014 en Talca. En el año 2015 la final nacional de la OCI se realizó en la ciudad de Santiago en el mes de noviembre.
  
 #### Participación en IOI
