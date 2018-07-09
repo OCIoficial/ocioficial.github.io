@@ -5,18 +5,15 @@ title: Acerca de
 
 ### Olimpiada Chilena de Informática
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum.
+La OCI es una competencia de programación orientada a estudiantes de secundaria que pretende despertar el interés en la Computación, permitiendo que los participantes desarrollen habilidades de abstracción, creatividad, algoritmos, pensamiento sistemático y resolución de problemas, y comprendan la naturaleza científica de la disciplina. La OCI busca en los colegios a los potenciales talentos y los motiva para que participen en las actividades de capacitación y práctica a nivel regional en talleres organizados por los miembros de la organización de la OCI, con miras a las competencias regionales. Los mejores de cada región participan en la final nacional de la Olimpiada, y los participantes con el mejor desempeño a nivel nacional reciben una preparación intensiva. Cuatro de ellos ganarán el derecho a representar a Chile en la Olimpiada Internacional de Informática IOI (http://www.ioinformatics.org).
 
-Culpa nobis veniam id sint unde. Similique consequatur voluptatum qui
-atque minima dolores ut id. Vero aut ea cum. Nobis hic qui et. Consectetur
-autem qui animi et et ut iste. Consequuntur in eos in natus voluptatem
-nam impedit.
+Nuestros objetivos son:
+
+Difundir la Ciencia de la Computación y la Informática entre los estudiantes de secundaria a nivel nacional.
+
+Descubrir tempranamente, alentar y reconocer, a los jóvenes talentos en la Ciencia de la Computación.
+
+Seleccionar a los concursantes que representarán a Chile en la Olimpiada Internacional de Informática
 
 ### Historia
 
