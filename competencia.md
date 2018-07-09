@@ -5,7 +5,7 @@ title: Competencia
 
 ### ¿Cómo funciona la competencia?
 La competencia es de carácter individual, e involucra resolver problemas a través de programas computacionales, utilizando los lenguajes C, C++ o Pascal. 
-![competencia proceso img](assets/images/aprendizaje_proceso.jpg)
+![competencia proceso img](assets/images/aprendizaje_proceso.png)
 
 La OCI se desarrolla en dos etapas e involucra escuelas de formación para introducir a los concursantes a la programación, o mejorar las habilidades que ya poseen. La primera etapa es distribuida en distintas ciudades.
  
