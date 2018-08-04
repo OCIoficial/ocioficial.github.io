@@ -1,7 +1,7 @@
 # Site
 name: OCI
-description: Olimpiadas Chilenas de Informática
-meta_description: "Olimpiadas Chilenas de Informática"
+description: Olimpiada Chilena de Informática
+meta_description: "Olimpiada Chilena de Informática"
 logo: 'assets/images/logo_oci.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
