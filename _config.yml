@@ -5,7 +5,7 @@ meta_description: "Olimpiada Chilena de Informática"
 logo: 'assets/images/logo_oci.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 
+baseurl: https://www.olimpiada-informatica.cl 
 email: 'contacto@olimpiada-informatica.cl'
 #google_analytics: ''
 disqus: 'ocioficial'
