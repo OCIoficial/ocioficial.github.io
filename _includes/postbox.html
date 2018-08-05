@@ -6,31 +6,41 @@
         <div class="card-container {% if forloop.last == false %}bottom-border{% endif %}">
             
             <div class="row">
-                
-                <div class="col-md-3">
+                <div class="col-md-12">
                     <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                </div>
+            </div>
+            
+            <div class="row">
+                
+                <div class="col-md-{% if post.image %}4{% else %}2{% endif %}">
+                    {% if post.thumbnail %}
+                    <img class="img-fluid" src="{{ site.baseurl }}/media/{{ post.thumbnail }}" alt="{{ post.title }}" />
+                    {% else %}
                     <span class="post-date">{{ post.date | date_to_string }}</span>
+                    {% endif %}
                 </div>
                 
-                <div class="col-md-{% if post.image %}6{% else %}9{% endif %}">
+                <div class="col-md-{% if post.image %}8{% else %}10{% endif %}">
                     <div class="card">
                         <div class="card-block">
-                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:40 }}</h4>
+                            <h4 class="card-text">
+                                {% if post.image %}
+                                    <span class="post-date">
+                                        {{ post.date | date_to_string }}
+                                    </span>
+                                    <br />
+                                {% endif %}
+                                {{ post.excerpt | strip_html | truncatewords:40 }}
+                            </h4>
                             <!--<span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>-->
                         </div>
                     </div>
                 </div>
             
             </div>
-            
-            {% if post.image %}
-                <div class="col-md-3">
-                    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/7.jpg" alt="{{ post.title }}">
-                </div>
-            {% endif %}
         
         </div>
-        
     </div>
     <!-- end post -->
 {% endfor %}

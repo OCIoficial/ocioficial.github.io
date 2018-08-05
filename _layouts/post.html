@@ -11,7 +11,7 @@ post_class: post-template
 <div class="banner">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <h3>{{ page.title }}</h3>
                 <ul class="tags">
                     {% assign sortedCategories = page.categories | sort %}
@@ -21,11 +21,6 @@ post_class: post-template
                     </li>
                     {% endfor %}
                 </ul>
-            </div>
-            <div class="col-md-4 text-right bannersocial">
-                <h5>Síguenos en la redes sociales</h5>
-                <a href="https://twitter.com/progcompcl" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_twitter.png" /></a>
-                <a href="https://fb.com/progcompCL" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_facebook.png" /></a>
             </div>
         </div>
     </div>
@@ -38,11 +33,12 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
 		<div class="col-sm-12">
 			<div class="mainheading">
-                <hr />
+                {% if page.image %}
+                <img class="featured-image img-fluid" src="{{ site.baseurl }}/media/{{ page.image }}" alt="{{ page.title }}">
+                {% endif %}
+                <!--<hr />-->                
 			</div>
-			{% if page.image %}
-            <img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
-            {% endif %}
+			
 			<div class="article-post">
 				{{content}}
                 <div class="clearfix"></div>
@@ -71,7 +67,7 @@ post_class: post-template
             </div>
 
             
-            {% if page.author %}				
+            {% if page.author %}
             <div class="row post-top-meta">
                 <div class="col-md-2">
                     <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
@@ -83,11 +79,13 @@ post_class: post-template
             </div>				
             {% endif %}
             
+            {% if page.disqus %}
             <section>
             <div id="comments">                          
                 {% include disqus.html %} 
             </div>
             </section>
+            {% endif %}
 
 		</div>
 
