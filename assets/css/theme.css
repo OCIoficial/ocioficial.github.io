@@ -451,7 +451,6 @@ blockquote {
 	margin:0 0 1.5rem 0;
 }
 .featured-image {
-    display: block;
     margin-bottom: 2rem;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
 }
@@ -890,7 +889,7 @@ iframe {
 }
 
 .nav-link { font-size: 16px!important; font-weight: 400!important; }
-.centered { text-align: center; }
+.centered { text-align: center!important; }
 .white { background: white!important; }
 .black { background: #171e27!important; }
 .main { /*padding: 30px 20px;*/ padding: 0; }
@@ -908,8 +907,11 @@ iframe {
 .cat2-border { border-top-color: #ea6b48; } /* naranjo */
 .cat1-border { border-top-color: #75b418; } /* verde */
 .card-container { padding: 25px 0; }
-.card-title { margin-bottom: 2px; }
+.card-container .img-fluid { margin-top: 10px; }
+.card-title { margin-bottom: 10px; }
 .post-date { font-size: 13px; }
+.mainheading { width: 100%; height: 350px; overflow: hidden; margin-bottom: 20px; }
+.mainheading img { width: 100%; }
 
 #slider { margin-bottom: 25px; padding: 10px 15px; border: 0px solid #171e27; }
 
