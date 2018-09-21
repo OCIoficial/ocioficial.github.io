@@ -3,7 +3,7 @@ layout: post
 title:  "Escolares chilenos triunfan en Olimpiada de Informática en Japón"
 categories: [ noticias, ioi, japon, medallas ]
 image: estudiantes-chilenos-triunfan.jpg
-thumbnail: estudiantes-chilenos-triunfan.jpg
+thumbnail: estudiantes-chilenos-triunfan_thumbnail.jpg
 ---
 
 >  Tres escolares de Santiago y uno de Concepción ganaron dos medallas de bronce.
