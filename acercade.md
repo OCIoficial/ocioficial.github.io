@@ -15,6 +15,15 @@ Descubrir tempranamente, alentar y reconocer, a los jóvenes talentos en la Cien
 
 Seleccionar a los concursantes que representarán a Chile en la Olimpiada Internacional de Informática
 
+Colaborar con la disminución de la brecha de género fomentando la participación de más mujeres en talleres durante el año buscando así más representación femenina en las distintas fases de la competencia. De la misma forma, colaborar en potenciar grupos menos representados, fomentando la participación de las distintas regiones del país mediante competencias regionales buscando tener representantes de cada sede regional en la fase final de la competencia.
+
+
+
+[18:03, 10/9/2019] Cathy: y de potenciar a grupos menos representados en el área
+[18:03, 10/9/2019] Cathy: como que hay que repensar los textos de la página, creo yo
+[00:37, 10/14/2019] Bonita ♡: Unos de nuestros objetivos principales es disminuir la brecha de género, fomentando la participación de más mujeres en talleres y también en la competencia
+
+
 ### Historia
 
 #### Versiones anteriores de OCI y participación en IOI
