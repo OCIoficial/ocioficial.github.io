@@ -2,8 +2,8 @@
 layout: post
 title:  "Resultados OCI 2019 - Fase Nacional"
 categories: [ noticias, oci, nacional, resultados ]
-image: final-nacional-santiago-2019.jpg
-thumbnail: final-nacional-santiago-2019.jpg
+image: final-nacional-santiago-2019-1.jpg
+thumbnail: final-nacional-santiago-2019-1.jpg
 ---
 
 > Conoce los detalles de la Final Nacional de la OCI 2019.
