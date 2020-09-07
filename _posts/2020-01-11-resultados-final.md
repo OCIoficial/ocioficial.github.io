@@ -26,4 +26,4 @@ CONCEPCIÓN/SANTIAGO.- Este sábado 11 de enero del 2020 tuvo lugar la fase naci
     - Matías Domb Castillo
     
 
-En el siguiente [enlace](https://olimpiada-informatica.cl/resultados/2019/nacional.pdf) se encuentra disponiblen los resultados de la Final Nacional 2019 . El resultado de la fase regional se encuentra disponible en el siguiente [enlace](https://olimpiada-informatica.cl/resultados/2019/puntajes.pdf). El problemset de la competencia puede descargarse [aquí](https://olimpiada-informatica.cl/resultados/2019/problemsetfinal2019.pdf). 
+En el siguiente [enlace](https://olimpiada-informatica.cl/resultados/2019/nacional.pdf) se encuentra disponiblen los resultados de la Final Nacional 2019. El problemset de la competencia puede descargarse [aquí](https://olimpiada-informatica.cl/resultados/2019/problemsetfinal2019.pdf). 
