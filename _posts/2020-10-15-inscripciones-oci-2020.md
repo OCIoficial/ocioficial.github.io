@@ -5,8 +5,9 @@ categories: [ noticias, oci, regional ]
 image: inscripciones-oci-2020.jpg
 thumbnail: inscripciones-oci-2020.jpg
 ---
+> Ya se encuentra habilitada la inscripción para la Olimpiada Chilena de Informática 2020. Cierre de inscripciones de la primera fase: viernes 11 de diciembre.
 
-> La Olimpiada Chilena de Informática es una competencia individual de programación para estudiantes de 7° básico a 4° medio. La OCI consiste en una serie de competencias en las que los participantes tendrán 4 horas para resolver un conjunto de 4 o más problemas que pondrán a prueba sus conocimientos de Ciencia de la Computación, algoritmos, lógica, matemática, técnicas de programación, entre otros. Los competidores deberán escribir programas que solucionen los problemas, los que serán evaluados a través de un sistema online, asignando puntaje de acuerdo a qué tan buena sea la solución enviada.
+La Olimpiada Chilena de Informática es una competencia individual de programación para estudiantes de 7° básico a 4° medio. La OCI consiste en una serie de competencias en las que los participantes tendrán 4 horas para resolver un conjunto de 4 o más problemas que pondrán a prueba sus conocimientos de Ciencia de la Computación, algoritmos, lógica, matemática, técnicas de programación, entre otros. Los competidores deberán escribir programas que solucionen los problemas, los que serán evaluados a través de un sistema online, asignando puntaje de acuerdo a qué tan buena sea la solución enviada.
 
 Los lenguajes de programación aceptados son C++ y Java.
 
