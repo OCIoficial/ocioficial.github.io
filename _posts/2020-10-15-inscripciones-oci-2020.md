@@ -20,7 +20,7 @@ Este año, y dada la contingencia nacional producto del COVID-19, la Olimpiada s
 Todas y todos los inscritos podrán participar de ambas competencias, o si lo prefiere, solo de la segunda.
 
 ### CONTENIDOS
-Los contenidos que serán evaluados en las diferentes fases se encuentran descritos en el Syllabus de la competencia.
+Los contenidos que serán evaluados en las diferentes fases se encuentran descritos en el [Syllabus](https://github.com/OCIoficial/syllabus/releases/download/v2020/oci-syllabus.pdf) de la competencia.
 
 
 ### PUNTAJE Y GANADORES
@@ -39,7 +39,7 @@ Ejemplo: Si alguien obtiene 270 puntos en la fase 1 y 250 puntos en la fase 2, e
 Quienes obtegan los 10* mejores puntajes según lo descrito anteriormente, podrán participar de un entrenamiento intensivo que permitirá selecionar a las y los 4 competidores que representarán al país en la Olimpiada Internacional de Informática 2021 (IOI, por sus siglas en inglés).
 
 ### REGISTRO
-Para registrarte debes completar el siguiente formulario. Recuerda inscribir un correo electrónico válido que revises frecuentemente, ya que allí se te informará todo lo que necesitas saber previo a realizarse la competencia.
+Para registrarte debes completar el [siguiente formulario](https://docs.google.com/forms/d/e/1FAIpQLSfUPE3JFHsazxR2hFo0Z8TUJmwrQWLRuUq3pS0Yop95fU-0_g/viewform?usp=sf_link). Recuerda inscribir un correo electrónico válido que revises frecuentemente, ya que allí se te informará todo lo que necesitas saber previo a realizarse la competencia.
 
 
 ¡Te invitamos a ser parte de la competencia de este año!
