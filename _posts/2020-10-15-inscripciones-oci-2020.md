@@ -2,8 +2,8 @@
 layout: post
 title:  "Proceso de inscripciones - OCI 2020"
 categories: [ noticias, oci, regional ]
-image: inscripciones-oci-2020.jpg
-thumbnail: inscripciones-oci-2020.jpg
+image: olimpiada-de-informatica.jpg
+thumbnail: olimpiada-de-informatica.jpg
 ---
 > Ya se encuentra habilitada la inscripción para la Olimpiada Chilena de Informática 2020. Cierre de inscripciones de la primera fase: viernes 11 de diciembre.
 
