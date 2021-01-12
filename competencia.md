@@ -3,12 +3,17 @@ layout: page
 title: Competencia
 ---
 
+> 
+> **_Actualización:_**  El proceso 2020 de la Olimpiada Chilena de Informática ha sufrido modificaciones, y se realizará una única competencia online y remota el día sábado 30 de enero de 2021.
+>
+---
 
 ## Introducción
 
 La Olimpiada Chilena de Informática (OCI) es una competencia individual de programación que desde 2013 busca despertar el interés por la Ciencia de la Computación en estudiantes de entre 7° básico y 4° medio a lo largo del país, además de reconocer y potenciar a talentos jóvenes y acercar la disciplina a grupos pocos representados en el área de la tecnología, con un foco especial en la disminución de la brecha de género en esta área.
 
 La Olimpiada contempla diversas etapas, entre las que se cuentan: talleres de preparación, competencia regional, final nacional, un campamento de verano para los mejores competidores del país (*equipo nacional*) y una competencia entre estos últimos para seleccionar a los 4 participantes que representarán a Chile en la [Olimpiada Internacional de Informática](https://ioinformatics.org/) del año siguiente.
+
 ## Requisitos
 
 Pueden participar todos y todas las estudiantes que cumplan con las condiciones:
