@@ -5,7 +5,6 @@ categories: [ noticias, oci, regional, nacional ]
 image: medallas.jpg
 thumbnail: medallas_thumbnail.jpg
 ---
-
 > ¡Aún estás a tiempo de para ser parte de participar de la Olimpiada! Cierre de inscripciones: jueves 28 de enero.
 
 El proceso 2020 de la Olimpiada Chilena de Informática ha sufrido modificaciones, y se realizará una única competencia el día sábado 30 de enero de 15 a 19 hrs (GMT-3). Puedes inscribirte hasta el **jueves 28 de enero** en [este formulario](https://bit.ly/OCI2020).
