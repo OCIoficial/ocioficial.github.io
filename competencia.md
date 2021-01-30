@@ -65,26 +65,34 @@ Adicionalmente, el equipo del competidor debe contar con el siguiente software:
 
 [^1]: El uso de una distribución de Linux no es obligatorio en fases regionales y/o remotas de la Olimpiada; sin embargo, en fases presenciales o posteriores a la final nacional, se espera que cada participante tenga un dominio básico del entorno y utilidades de este tipo de sistemas operativos.
 
-## Modalidad remota para la OCI 2020
+## Modalidad remota
 
-Considerando la situación nacional y mundial, la versión 2020 de la OCI se realizará de manera completamente remota y constará de dos rondas que se llevarán a cabo en dos fechas distintas:
+Considerando la situación nacional y mundial, la novena versión de la OCI se realizará de manera completamente online y remota, el día sábado 30 de enero del 2021, 15 a 19 hrs. (GMT-3)
 
-- Primera ronda: 19 de diciembre del 2020, 15 a 19 hrs. (GMT-3)
-- Segunda ronda: 30 de enero del 2021, 15 a 19 hrs. (GMT-3)
-
-Con excepción de la forma en la que se determinará el puntaje final para cada participante, las fases 1 y 2 corresponden en todos los otros aspectos a las fases regional y final nacional en versiones anteriores de la OCI. Particularmente, el contenido a evaluar en cada fase se mantiene sin modificaciones. El detalle de temas que abarca cada ronda, descripción de la estructura de un problema, consideraciones de implementación y otra información relacionada se encuentra en el [Syllabus de la competencia](https://github.com/OCIoficial/syllabus/releases/download/v2020/oci-syllabus.pdf).
+El contenido a evaluar, descripción de la estructura de un problema, consideraciones de implementación y otra información relacionada se encuentra en el [Syllabus de la competencia](https://github.com/OCIoficial/syllabus/releases/download/v2020/oci-syllabus.pdf).
 
 ### Lenguajes de programación soportados
 
-En la edición 2020, los participantes podrán enviar soluciones usando C++ o Java.
+En la edición 2020-2021, los participantes podrán enviar soluciones usando C++ o Java.
 
 ### Puntajes y ganadores
 
-Para determinar los clasificados al equipo nacional se considerará el puntaje obtenido en ambas competencias. Específicamente, si un participante obtiene un puntaje *P<sub>1</sub>* en la fase 1 y un puntaje *P<sub>2</sub>* en la fase 2, el puntaje final *P* del participante estará determinado por la siguiente fórmula:
+Cada problema de la Olimpiada tiene un máximo de 100 puntos, y es posible obtener un puntaje parcial según qué tan buena sea la solución y las restricciones descritas en el enunciado del problema.
 
-*<center>P = max(0,3 × P<sub>1</sub> + 0,7 × P<sub>2</sub> , P<sub>2</sub>)</center>*
+Al término de las 4 horas, quienes obtengan los 10[^2] mejores puntajes totales serán declarados ganadores de la competencia y pasarán a conformar el equipo nacional. En caso de ocurrir empates que dificulten la conformación del equipo, el Directorio de la OCI dirimirá considerando aspectos como el tiempo de obtención del puntaje y criterios de equidad de género, en línea con los objetivos de la Olimpiada.
 
-Quienes obtengan los 10[^2]  mejores puntajes según lo descrito anteriormente serán declarados ganadores de la competencia nacional y pasarán a conformar el equipo nacional. Las y los seleccionados nacionales recibirán una invitación a participar del training camp OCI para profundizar y adquirir nuevos conocimientos en diferentes tópicos de programación competitiva. La fecha y modalidad de este campamento serán definidas y comunicadas según la contingencia.
+Las y los seleccionados nacionales recibirán una invitación a participar del training camp OCI para profundizar y adquirir nuevos conocimientos en diferentes tópicos de programación competitiva. La fecha y modalidad de este campamento serán definidas y comunicadas según la contingencia.
+
+## Preguntas frecuentes
+
+- ¿Se puede utilizar un compilador online?
+> Sí, pero siempre es más recomendable tener los compiladores respectivos en tu propia máquina.
+
+- ¿Puedo utilizar un servidor remoto para programar/compilar?
+> Si tu computador local se aleja mucho de las especificaciones recomendadas, sí; sin embargo, el servidor remoto debe cumplir con las mismas reglas que la máquina local.
+
+- ¿Puedo consultar apuntes digitales en una tablet u otro dispositivo?
+> NO. Solamente está permitido consultar apuntes en papel (incluso código), y está estrictamente prohibido utilizar dispositivos electrónicos adicionales a la máquina que utilizarás para competir.
 
 ----
 
