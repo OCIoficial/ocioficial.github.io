@@ -2,8 +2,8 @@
 layout: post
 title:  "Resultados OCI 2020 - Fase Final"
 categories: [ noticias, oci, nacional, resultados ]
-image: final-nacional-santiago-2020-1.jpg
-thumbnail: final-nacional-santiago-2020-1.jpg
+image: medallas.jpg
+thumbnail: medallas_thumbnail.jpg.jpg
 ---
 
 > Conoce los detalles de la Fase Final de la OCI 2020.
