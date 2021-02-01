@@ -2,8 +2,8 @@
 layout: post
 title:  "OCI 2020 - Nueva fecha única"
 categories: [ noticias, oci, regional ]
-image: medallas.jpg
-thumbnail: medallas_thumbnail.jpg
+image: estudiantes-ioi-japon.jpg
+thumbnail: estudiantes-ioi-japon.jpg
 ---
 > ¡Aún estás a tiempo para participar de la Olimpiada! Cierre de inscripciones: jueves 28 de enero.
 
