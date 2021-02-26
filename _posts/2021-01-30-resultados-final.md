@@ -25,3 +25,6 @@ Este sábado 30 de enero del 2021 tuvo lugar la fase final de la OCI 2020. El ce
     - Diego Rebollo García
     - Julieta Coloma Burgueño
     
+Además, fue reconocida con una Mención Honrosa la competidora Ema Oliva, por ser la participante más joven en obtener puntaje, con solo 11 años.
+
+Puedes descargar aquí el scoreboard final de la competencia: [pdf](/resultados/2020/puntajes_2021-01-30.pdf), [xlsx](/resultados/2020/puntajes_2021-01-30.xlsx)
