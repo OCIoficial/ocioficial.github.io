@@ -2,7 +2,7 @@
 name: OCI
 description: Olimpiada Chilena de Informática
 meta_description: "Olimpiada Chilena de Informática"
-logo: 'assets/images/logo_oci.png'
+logo: 'assets/images/logos/logo_oci_01.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 #baseurl: https://www.olimpiada-informatica.cl 
@@ -17,7 +17,7 @@ authors:
     name: OCI
     display_name: Equipo OCI
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: contacto@olimpiada-informatica.cl
+    email: corporacionc100@gmail.com
     web: https://www.olimpiada-informatica.cl
     twitter: https://twitter.com/OCI_Chile
     description: ""

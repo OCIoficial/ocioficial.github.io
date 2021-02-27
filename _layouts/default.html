@@ -18,18 +18,18 @@
 
     <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="container paddingless">
 
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
             </a>
 
             <div class="collapse navbar-collapse" id="navbarsWow">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">                
-                    <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ site.baseurl }}/acercade">Acerca de</a>
@@ -37,77 +37,96 @@
                     <!--<li class="nav-item">
                         <a class="nav-link" href="{{ site.baseurl }}/sedes">Sedes</a>
                     </li>
-                    -->
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/competencia">Competencia</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/contacto">Contacto</a>
-                    </li>
-                </ul>
-            </div>
-            
+                -->
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/competencia">Competencia</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/contacto">Contacto</a>
+                </li>
+            </ul>
         </div>
-    </header>
 
-    <div class="site-content">
-        
+    </div>
+</header>
+
+<div class="site-content">
+
+    <div class="container">
+        <div class="main-content">
+            {{ content }}
+        </div>
+    </div>
+
+    <footer class="footer">
         <div class="container">
-            <div class="main-content">
-                {{ content }}
-            </div>
-        </div>
-
-        <footer class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-5">
-                        <div class="footer-widget">
-                            <h5 class="title">Olimpiada Chilena de Informática</h5>
-                            <p>Copyright © {{ site.time | date: "%Y" }}</p>
-                            <a href="https://twitter.com/OCI_Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_twitter.png" /></a>
-                            &nbsp;
-                            <a href="https://facebook.com/OCI.Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_facebook.png" /></a>
-                            &nbsp;
-                            <a href="https://github.com/ocioficial" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon_github.png" /></a>
-                        </div>
+            <div class="row">
+                <div class="col-sm-5">
+                    <div class="footer-widget">
+                        <h5 class="title">Olimpiada Chilena de Informática</h5>
+                        <p>Copyright © 2013 - {{ site.time | date: "%Y" }}</p>
+                        <a href="https://twitter.com/OCI_Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/twitter.png" /></a>
+                        &nbsp;
+                        <a href="https://facebook.com/OCI.Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/facebook.png" /></a>
+                        &nbsp;
+                        <a href="https://www.linkedin.com/company/olimpiada-chilena-informatica/" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/linkedin.png" /></a>
+                        &nbsp;
+                        <a href="https://github.com/ocioficial" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/github.png" /></a>
                     </div>
+                </div>
 
-                    <div class="col-sm-2">
-                        <div class="footer-widget">
-                            <h5 class="title">RECURSOS</h5>
-                            <ul>
-                                <li><a href="{{ site.baseurl }}/competencia">Competencia</a></li>
-                            </ul>
-                        </div>
+                <div class="col-sm-2">
+                    <div class="footer-widget">
+                        <h5 class="title">RECURSOS</h5>
+                        <ul>
+                            <li><a href="{{ site.baseurl }}/competencia">Competencia</a></li>
+                        </ul>
                     </div>
+                </div>
 
-                    <div class="col-sm-2">
-                        <div class="footer-widget">
-                            <h5 class="title">ACERCA DE</h5>
-                            <ul>
-                                <li><a href="{{ site.baseurl }}/acercade">Sobre OCI</a></li>
-                                <li><a href="{{ site.baseurl }}/contacto">Contacto</a></li>
-                            </ul>
-                        </div>
+                <div class="col-sm-2">
+                    <div class="footer-widget">
+                        <h5 class="title">ACERCA DE</h5>
+                        <ul>
+                            <li><a href="{{ site.baseurl }}/acercade">Sobre OCI</a></li>
+                            <li><a href="{{ site.baseurl }}/contacto">Contacto</a></li>
+                        </ul>
                     </div>
+                </div>
 
-                    <div class="col-sm-3">
-                        <div class="footer-widget textwidget text-right">
-                            <h5 class="title">International Olympiad in Informatics</h5>
-                            <a href="http://www.ioinformatics.org" target="_blank"><img src="{{ site.baseurl }}/assets/images/logo_ioi_small.png"></a>
-                        </div>
+                <div class="col-sm-3">
+                    <div class="footer-widget textwidget text-right">
+                        <h5 class="title">International Olympiad in Informatics</h5>
+                        <a href="http://www.ioinformatics.org" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/ioi_color.png"></a>
                     </div>
                 </div>
             </div>
-        </footer>
+        </div>
+    </footer>
 
-    </div> 
-        
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-</body>
+</div> 
 
-</html>
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<!-- Default Statcounter code for OCI Web
+    https://www.olimpiada-informatica.cl -->
+    <script type="text/javascript">
+        var sc_project=12487037; 
+        var sc_invisible=1; 
+        var sc_security="dde5d0b5"; 
+    </script>
+    <script type="text/javascript"
+    src="https://www.statcounter.com/counter/counter.js"
+    async></script>
+    <noscript><div class="statcounter"><a title="Web Analytics
+        Made Easy - StatCounter" href="https://statcounter.com/"
+        target="_blank"><img class="statcounter"
+        src="https://c.statcounter.com/12487037/0/dde5d0b5/1/"
+        alt="Web Analytics Made Easy -
+        StatCounter"></a></div></noscript>
+        <!-- End of Statcounter Code --> 
+    </body>
+
+    </html>
