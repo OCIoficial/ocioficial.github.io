@@ -60,7 +60,7 @@ Adicionalmente, el equipo del competidor debe contar con el siguiente software:
 
 ## Modalidad remota
 
-Considerando la situación nacional y mundial, la versión 2020 de la OCI se realizará de manera completamente remota y constará de dos rondas que se llevarán a cabo en dos fechas distintas:
+Considerando la situación nacional y mundial, la décima versión de la OCI se realizará de manera completamente remota y constará de dos rondas que se llevarán a cabo en dos fechas distintas:
 
 - Primera ronda: Sábado 11 de diciembre del 2021, 15 a 19 hrs. (GMT-3)
 - Segunda ronda: Sábado 22 de enero del 2022, 15 a 19 hrs. (GMT-3)
