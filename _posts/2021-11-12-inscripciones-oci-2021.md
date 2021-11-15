@@ -30,7 +30,7 @@ Para determinar a los ganadores de la Olimpiada Nacional se considerará el punt
 *<center>P = max(0,3 × P<sub>1</sub> + 0,7 × P<sub>2</sub> , P<sub>2</sub>)</center>*
 siendo *P<sub>1</sub>* el puntaje obtenido en la ronda 1 y *P<sub>2</sub>* el puntaje obtenido en la ronda 2.
 
-Quienes obtegan los 10[^*] mejores puntajes según lo descrito anteriormente, podrán participar de un entrenamiento intensivo que permitirá selecionar a las y los 4 competidores que representarán al país en la Olimpiada Internacional de Informática 2022 (IOI, por sus siglas en inglés).
+Quienes obtegan los 10 [^1] mejores puntajes según lo descrito anteriormente, podrán participar de un entrenamiento intensivo que permitirá selecionar a las y los 4 competidores que representarán al país en la Olimpiada Internacional de Informática 2022 (IOI, por sus siglas en inglés).
 
 ### REGISTRO
 Para registrarte debes completar el [siguiente formulario](https://bit.ly/OCI_2021). Recuerda inscribir un correo electrónico válido que revises frecuentemente, ya que allí se te informará todo lo que necesitas saber previo a realizarse la competencia.
@@ -41,4 +41,4 @@ Para mayor información, puedes revisar la sección [Competencia](/competencia) 
 ¡Te invitamos a ser parte de la OCI!
 
 ---------------------------------
-[^*]: Esta cantidad puede variar según los resultados finales de la competencia.
+[^1]: Esta cantidad puede variar según los resultados finales de la competencia.

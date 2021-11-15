@@ -45,7 +45,7 @@ Sugerimos que el equipo del competidor cuente con las siguientes característica
 * Espacio de almacenamiento disponible de al menos 8 GB
 * Procesador de al menos 2 cores/4 threads
 * Monitor con resolución igual o superior a 1024 x 768
-* Sistema Operativo: alguna distribución de Linux (recomendado Ubuntu 20.04)[^*]
+* Sistema Operativo: alguna distribución de Linux (recomendado Ubuntu 20.04) [^1]
 
 Adicionalmente, el equipo del competidor debe contar con el siguiente software:
 * Compiladores e intérpretes requeridos según lenguaje de preferencia
@@ -56,7 +56,7 @@ Adicionalmente, el equipo del competidor debe contar con el siguiente software:
 * Emulador de terminal, como por ejemplo: Linux console, GNOME terminal, Konsole, Terminator, Kitty, Xterm
 * Explorador: Firefox, Chrome o similar
 
-[^*]: El uso de una distribución de Linux no es obligatorio en fases regionales y/o remotas de la Olimpiada; sin embargo, en fases presenciales o posteriores a la final nacional, se espera que cada participante tenga un dominio básico del entorno y utilidades de este tipo de sistemas operativos.
+[^1]: El uso de una distribución de Linux no es obligatorio en fases regionales y/o remotas de la Olimpiada; sin embargo, en fases presenciales o posteriores a la final nacional, se espera que cada participante tenga un dominio básico del entorno y utilidades de este tipo de sistemas operativos.
 
 ## Modalidad remota
 
@@ -80,7 +80,7 @@ Para determinar los clasificados al equipo nacional se considerará el puntaje o
 *<center>P = max(0,3 × P<sub>1</sub> + 0,7 × P<sub>2</sub> , P<sub>2</sub>)</center>*
 
 
-Quienes obtengan los 10[^**]  mejores puntajes según lo descrito anteriormente serán declarados ganadores de la competencia nacional y pasarán a conformar el equipo nacional. En caso de ocurrir empates que dificulten la conformación del equipo, el Directorio de la OCI dirimirá considerando aspectos como el tiempo de obtención del puntaje y criterios de equidad de género, en línea con los objetivos de la Olimpiada.
+Quienes obtengan los 10 [^2]  mejores puntajes según lo descrito anteriormente serán declarados ganadores de la competencia nacional y pasarán a conformar el equipo nacional. En caso de ocurrir empates que dificulten la conformación del equipo, el Directorio de la OCI dirimirá considerando aspectos como el tiempo de obtención del puntaje y criterios de equidad de género, en línea con los objetivos de la Olimpiada.
 
 Las y los seleccionados nacionales recibirán una invitación a participar del training camp OCI para profundizar y adquirir nuevos conocimientos en diferentes tópicos de programación competitiva. La fecha y modalidad de este campamento serán definidas y comunicadas según la contingencia.
 
@@ -97,5 +97,5 @@ Las y los seleccionados nacionales recibirán una invitación a participar del t
 
 ----
 
-[^**]: Esta cantidad puede variar según los resultados finales de la competencia.
+[^2]: Esta cantidad puede variar según los resultados finales de la competencia.
 
