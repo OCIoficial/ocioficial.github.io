@@ -12,4 +12,4 @@ En el siguiente archivo se pueden encontrar los resultados de todos los estudian
 
 Felicitamos a cada uno de los estudiantes que participaron durante esta fase y les deseamos mucho éxito para la Fase 2 que se realizará el día 22 de enero del 2022.
 
-Puedes descargar aquí el scoreboard final de la competencia aquí: [pdf](resultados/Resultados OCI - Fase 1 - 2021-12-01.pdf), [xlsx](resultados/Resultados OCI - Fase 1 - 2021-12-01.xlsx)
+Puedes descargar aquí el scoreboard final de la competencia aquí: [pdf](/resultados/2021/resultados_OCI_Fase_1_2021-12-11.pdf), [xlsx](/resultados/2021/resultados_OCI_Fase_1_2021-12-11.xlsx)
