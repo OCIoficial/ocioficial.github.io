@@ -23,4 +23,4 @@ Este sábado 22 de enero del 2022 tuvo lugar la fase final de la Olimpiada Chile
     - Siyuan Lu
     - Francisco Leay Ochoa
     
-Puedes descargar aquí el scoreboard final de la competencia: [pdf](/resultados/2021/puntajes_2022-01-22.pdf), [xlsx](/resultados/2021/puntajes_2022-01-22.xlsx)
+Puedes descargar aquí el scoreboard final de la competencia: [pdf](/resultados/2021/resultados_OCI_Fase_Final_2022-01-22.pdf), [xlsx](/resultados/2021/resultados_OCI_Fase_Final_2022-01-22.xlsx)
