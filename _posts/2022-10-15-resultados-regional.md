@@ -2,7 +2,7 @@
 layout: post
 title:  "Resultados OCI 2022 - Fase Regional"
 categories: [ noticias, oci, regional, resultados ]
-image: 2022-regional-osorno.jpg
+image: 2022-regional-osorno-1.jpg
 thumbnail: 2022-regional-osorno.jpg
 ---
 > Estudiantes de 10 regiones del país participaron en la clasificatoria regional 2022.
