@@ -933,10 +933,10 @@ iframe {
 .rs-github { background: #171515!important; color: #fff!important; }
 
 .article { padding: 50px 0; text-align: justify; }
-.box { padding: 15px; text-align: center; border: 1px solid #111; }
+.box { padding: 15px; text-align: center;}
 
 .link { background: #fff; color: #111; border: 1px solid #111; padding: 15px; font-size: 18px; text-align: center; }
 
 .sponsor-category { border-radius: 6px; box-shadow: 0 0.5em 1em -0.125em hsla(0,0%,4%,.1), 0 0 0 1px hsla(0,0%,4%,.02); color: #4a4a4a; display: block; padding: 1.25rem; }
-
+.sponsor-category h2 { margin-bottom: 1em; }
 .img-sponsor { width: 100%; height: auto; max-width: 250px;}
