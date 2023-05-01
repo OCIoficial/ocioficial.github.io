@@ -33,8 +33,6 @@ archive: false
 
   <section>
     <hr />
-    <h2>Categorías de Patrocinadores</h2>
-
     {% assign sorted_sponsors = site.sponsors | sort: 'order' %}
     {% for category in sorted_sponsors %}
 
@@ -42,7 +40,6 @@ archive: false
         <article>
         <h2>{{ category.category }}</h2>
           <div class="row justify-content-center">
-            <div class="sponsors">
               {% if category.sponsors.size > 0 %}
                 {% assign sponsors = category.sponsors %}
                 {% case category.category %}
@@ -60,9 +57,9 @@ archive: false
               {% else %}
                 <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
               {% endif %}
-            </div>
           </div>
         </article>
+        <hr/>
       </div>
     {% endfor %}
   </section>
