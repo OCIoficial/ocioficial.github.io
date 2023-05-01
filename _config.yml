@@ -38,3 +38,7 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+collections:
+  sponsors:
+    output: true

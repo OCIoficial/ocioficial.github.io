@@ -1,4 +1,4 @@
 ---
-layout: sponsors
+layout: alianzas
 title: Alianzas y Colaboradores
 ---

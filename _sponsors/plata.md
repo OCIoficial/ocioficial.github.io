@@ -1,5 +1,5 @@
 ---
-layout: sponsors
+layout: default
 category: Plata
 sponsors:
 - title: Cero

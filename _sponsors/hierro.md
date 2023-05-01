@@ -1,5 +1,5 @@
 ---
-layout: sponsors
+layout: default
 category: Hierro
 sponsors:
 - title: Universidad de Concepción

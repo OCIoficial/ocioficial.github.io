@@ -1,5 +1,5 @@
 ---
-layout: sponsors
+layout: default
 category: Oro
 sponsors:
 - title: NTT DATA
