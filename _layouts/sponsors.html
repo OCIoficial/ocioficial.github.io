@@ -1,0 +1,61 @@
+---
+layout: default
+comments: true
+archive: false
+---
+
+</div>
+</div>
+
+<div class="banner">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <h3>{{ page.title }}</h3>
+      </div>
+      <div class="col-md-4 text-right bannersocial">
+        <h5>Síguenos en la redes sociales</h5>
+        <a href="https://twitter.com/OCI_Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/twitter.png" /></a>
+        &nbsp;
+        <a href="https://instagram.com/oci_chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/instagram.png" /></a>
+        &nbsp;
+        <a href="https://facebook.com/OCI.Chile" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/facebook.png" /></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/company/olimpiada-chilena-informatica/" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/linkedin.png" /></a>
+        &nbsp;
+        <a href="https://github.com/ocioficial" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/github.png" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container article white">
+
+  <section>
+    <hr />
+    <h2>Categorías de Sponsors</h2>
+    {% for category in site.sponsors %}
+      <div class="sponsor-category">
+        <h2>{{ category.category }}</h2>
+          <div class="sponsors">
+            {% if category.sponsors.size > 0 %}
+              {% assign sponsors = category.sponsors %}
+              {% case category.category %}
+                {% when 'Platino' %}
+                  {% include platinum_sponsors.html %}
+                {% when 'Oro' %}
+                  {% include gold_sponsors.html %}
+                {% when 'Plata' %}
+                  {% include silver_sponsors.html %}
+                {% when 'Bronce' %}
+                  {% include bronze_sponsors.html %}
+                {% when 'Hierro' %}
+                  {% include iron_sponsors.html %}
+              {% endcase %}
+            {% else %}
+              <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
+            {% endif %}
+          </div>
+      </div>
+    {% endfor %}
+  </section>
