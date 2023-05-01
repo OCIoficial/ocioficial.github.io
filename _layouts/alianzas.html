@@ -39,26 +39,30 @@ archive: false
     {% for category in sorted_sponsors %}
 
       <div class="sponsor-category">
+        <article>
         <h2>{{ category.category }}</h2>
-          <div class="sponsors">
-            {% if category.sponsors.size > 0 %}
-              {% assign sponsors = category.sponsors %}
-              {% case category.category %}
-                {% when 'Platino' %}
-                  {% include platinum_sponsors.html %}
-                {% when 'Oro' %}
-                  {% include gold_sponsors.html %}
-                {% when 'Plata' %}
-                  {% include silver_sponsors.html %}
-                {% when 'Bronce' %}
-                  {% include bronze_sponsors.html %}
-                {% when 'Hierro' %}
-                  {% include iron_sponsors.html %}
-              {% endcase %}
-            {% else %}
-              <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
-            {% endif %}
+          <div class="row justify-content-center">
+            <div class="sponsors">
+              {% if category.sponsors.size > 0 %}
+                {% assign sponsors = category.sponsors %}
+                {% case category.category %}
+                  {% when 'Platino' %}
+                    {% include platinum_sponsors.html %}
+                  {% when 'Oro' %}
+                    {% include gold_sponsors.html %}
+                  {% when 'Plata' %}
+                    {% include silver_sponsors.html %}
+                  {% when 'Bronce' %}
+                    {% include bronze_sponsors.html %}
+                  {% when 'Hierro' %}
+                    {% include iron_sponsors.html %}
+                {% endcase %}
+              {% else %}
+                <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
+              {% endif %}
+            </div>
           </div>
+        </article>
       </div>
     {% endfor %}
   </section>
