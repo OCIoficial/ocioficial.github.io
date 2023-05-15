@@ -940,4 +940,6 @@ iframe {
 .sponsor h3 {padding: 1em 1em 1em 1em; }
 .sponsor-category { border-radius: 6px; box-shadow: 0 0.5em 1em -0.125em hsla(0,0%,4%,.1), 0 0 0 1px hsla(0,0%,4%,.02); color: #4a4a4a; display: block; padding: 1.25rem; }
 .sponsor-category h2 { margin-bottom: 1em; }
-.img-sponsor { width: 100%; height: auto; max-width: 250px;}
+.img-sponsor-gold { width: 100%; height: auto; max-width: 250px;}
+.img-sponsor-silver { width: 100%; height: auto; max-width: 200px;}
+.img-sponsor-bronze { width: 100%; height: auto; max-width: 150px;}
