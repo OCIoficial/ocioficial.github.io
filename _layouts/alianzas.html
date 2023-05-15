@@ -38,41 +38,6 @@ archive: false
   <section class="sponsor">
     <hr />
 
-    <h3> Auspiciadores </h3>
-
-    {% assign sorted_sponsors = site.sponsors | sort: 'order' %}
-    {% for category in sorted_sponsors %}
-
-      <div class="sponsor-category box">
-        <article>
-        <h2>{{ category.category }}</h2>
-          <div class="row justify-content-center">
-              {% if category.sponsors.size > 0 %}
-                {% assign sponsors = category.sponsors %}
-                {% case category.category %}
-                  {% when 'Platino' %}
-                    {% include platinum_sponsors.html %}
-                  {% when 'Oro' %}
-                    {% include gold_sponsors.html %}
-                  {% when 'Plata' %}
-                    {% include silver_sponsors.html %}
-                  {% when 'Bronce' %}
-                    {% include bronze_sponsors.html %}
-                  {% when 'Hierro' %}
-                    {% include iron_sponsors.html %}
-                {% endcase %}
-              {% else %}
-                <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
-              {% endif %}
-          </div>
-        </article>
-      </div>
-    {% endfor %}
-  </section>
-
-  <section class="sponsor">
-    <hr />
-
       <h3>Organiza</h3>
       <div class="row justify-content-center">
         <div class="col-md-3">
@@ -102,5 +67,38 @@ archive: false
 
   </section>
 
+  <section class="sponsor">
+    <hr />
 
+    <h3> Auspiciadores </h3>
+
+    {% assign sorted_sponsors = site.sponsors | sort: 'order' %}
+    {% for category in sorted_sponsors %}
+
+    <div class="sponsor-category box">
+      <article>
+        <h2>{{ category.category }}</h2>
+        <div class="row justify-content-center">
+          {% if category.sponsors.size > 0 %}
+          {% assign sponsors = category.sponsors %}
+          {% case category.category %}
+          {% when 'Platino' %}
+          {% include platinum_sponsors.html %}
+          {% when 'Oro' %}
+          {% include gold_sponsors.html %}
+          {% when 'Plata' %}
+          {% include silver_sponsors.html %}
+          {% when 'Bronce' %}
+          {% include bronze_sponsors.html %}
+          {% when 'Hierro' %}
+          {% include iron_sponsors.html %}
+          {% endcase %}
+          {% else %}
+          <p class="no-sponsors-message">No hay patrocinadores en esta categoría.</p>
+          {% endif %}
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+  </section>
 
