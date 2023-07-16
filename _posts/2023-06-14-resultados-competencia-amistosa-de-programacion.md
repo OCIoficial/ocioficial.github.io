@@ -14,7 +14,7 @@ En esta oportunidad, la competencia constó de 4 problemas, y se realizó utiliz
 
 
 #### ¿CUÁLES FUERON LOS RESULTADOS?
-Si quieres saber cuáles fueron los resultados del AmistOCI de programación competitiva, podrás encontrarlos [en el siguiente enlace](https://olimpiada-informatica-cl/resultados/2023/amistoci_2023.pdf). 
+Si quieres saber cuáles fueron los resultados del AmistOCI de programación competitiva, podrás encontrarlos [en el siguiente enlace](https://olimpiada-informatica.cl/resultados/2023/amistoci_2023.pdf). 
 Felicitamos a cada estudiante que se animó a participar de esta instancia, y hacemos la invitación a que sigan preparándose y que se motiven a participar del certamen oficial que se realizará este año.
 
 Por último, felicitamos a **Edgardo León** y **Emilia Leñam** quienes obtuvieron el puntaje completo en esta oportunidad.
