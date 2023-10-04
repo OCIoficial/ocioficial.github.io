@@ -46,7 +46,7 @@ La competencia consta de las siguientes fases:
 **Al participar de cualquiera de las fases de la Olimpiada, las y los competidores aceptan las reglas de la competencia. Ante cualquier incumplimiento de estas por parte de un/a participante, así como otros comportamientos no descritos que signifiquen una falta a la honestidad o constituyan una ofensa hacia cualquier miembro de la comunidad, se aplicará la sanción que el Directorio de la OCI estime conveniente, incluyendo la descalificación inmediata y prohibición de participar en futuras competencias.**
 
 ## Lenguajes de programación soportados
-En la edición 2023, los participantes podrán enviar soluciones usando C++.
+En la edición 2023, los participantes podrán enviar soluciones usando C++ y Java.
 
 ## Puntajes y ganadores
 Cada problema de la Olimpiada tiene un máximo de 100 puntos, y es posible obtener un puntaje parcial según qué tan buena sea la solución y las restricciones descritas en el enunciado del problema. El puntaje total de un competidor en una fase de la competencia es la suma de los puntajes máximos de cada problema para esa fase de la Olimpiada.
@@ -69,7 +69,7 @@ Sugerimos que el equipo del competidor cuente con las siguientes característica
 * Sistema Operativo: alguna distribución de Linux (recomendado Ubuntu 20.04) [^2]
 
 Adicionalmente, el equipo del competidor debe contar con el siguiente software:
-* Compiladores e intérpretes requeridos según lenguaje de preferencia: g++
+* Compiladores e intérpretes requeridos según lenguaje de preferencia: gcc, g++, javac
 * Editores de texto y/o IDEs de preferencia, tales como: Geany, Gedit, Kate, Emacs, Vim, Sublime, Visual Studio Code, Eclipse Java, Eclipse CDT, Netbeans, Codeblocks (verificar que esté instalado xterm porque es necesario para correr los programas dentro de Codeblocks)
 * (Opcional) Debuggers: gdb, valgrind
 * Emulador de terminal, como por ejemplo: Linux console, GNOME terminal, Konsole, Terminator, Kitty, Xterm
