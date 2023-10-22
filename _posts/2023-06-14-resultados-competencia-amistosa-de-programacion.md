@@ -3,7 +3,7 @@ layout: post
 title:  "Resultados oficiales AmistOCI - Olimpiada Chilena de Informática"
 categories: [ noticias, oci , resultados]
 image: amistoci-de-programacion.jpg
-thumbnail: medallas_thumbnail.jpg
+thumbnail: estudiantes-ioi-japon_thumbnail.jpg
 ---
 
 > Ya se encuentran disponibles los resultados de la primera competencia amistosa de programación competitiva.
