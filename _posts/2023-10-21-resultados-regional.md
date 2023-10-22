@@ -13,6 +13,6 @@ Los y las participantes compitieron durante cuatro horas para asegurar su cupo a
 
 
 
-En el siguiente [enlace](/resultados/2023/regional.pdf) se encuentra disponible el ranking de la competencia y la lista de participantes clasificados a la final nacional. El problemset de la competencia puede descargarse [aquí](/problemsets/2022_regional.pdf).
+En el siguiente [enlace](/resultados/2023/regional.pdf) se encuentra disponible el ranking de la competencia y la lista de participantes clasificados a la final nacional. El problemset de la competencia puede descargarse [aquí](/problemsets/2023_regional.pdf).
 
 > La Olimpiada Chilena de Informática es una iniciativa de la Sociedad Chilena de Ciencia de la Computación, con la colaboración del Instituto Milenio Fundamentos de los Datos. En su edición 2023, la OCI se realiza gracias al gentil patrocinio de NTT Data y Cero, Synopsys, Huawei y Fundación País Digital.
