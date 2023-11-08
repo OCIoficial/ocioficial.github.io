@@ -5,5 +5,5 @@ order: 5
 sponsors:
 - title: Fundación País Digital
   image: /assets/images/iron/hierro-1.png
-  url: https://www.paisdigital.org/
+  url: https://paisdigital.org/
 ---
