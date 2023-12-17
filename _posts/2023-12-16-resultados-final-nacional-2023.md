@@ -13,12 +13,15 @@ Este viernes 15 y sábado 16 de diciembre tuvo lugar la Final Nacional de la Oli
 Junto a Edgardo, otros 9 participantes fueron reconocidos por sus destacados puntajes. Los y las 10 medallistas pasan a conformar la nueva _selección nacional_ y se les invitará a participar de un Training Camp avanzado durante el verano.
 
 El detalle de las medallas fue el siguiente:
+
 🥇 Medalla de Oro
 - Edgardo León González, Colegio de Los Sagrados Corazones Providencia
+
 🥈 Medalla de Plata
 - Enzo Vivallo Flores, Instituto Ramón Freire
 - Han Yu Yang Wang, Shanghai High School
 - Francisco Pinhao Valenzuela, The English Institute
+
 🥉 Medalla de Bronce
 - Maximiliano Sánchez Almeyda, Liceo Bicentenario Polivalente San Nicolás
 - Nicolás Olavarría Rojas, Colegio Alicante del Sol
