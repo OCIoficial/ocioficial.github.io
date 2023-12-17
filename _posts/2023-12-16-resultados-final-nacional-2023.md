@@ -3,7 +3,7 @@ layout: post
 title:  "Resultados Final Nacional OCI 2023"
 categories: [ noticias, oci, nacional, resultados ]
 image: 2023-premiacion-nacional.jpg
-thumbnail: 2023-premiacion-nacional.jpg
+thumbnail: 2023-premiacion-nacional-thumbnail.jpg
 ---
 
 > Conoce a l@s medallistas de la edición 2023 de la Olimpiada Chilena de Informática.
