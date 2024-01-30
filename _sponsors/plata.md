@@ -8,6 +8,6 @@ sponsors:
   url: https://cero.ai/
 - title: NIC Chile
   image: /assets/images/silver/plata-2.png
-  url:
+  url: https://www.nic.cl/
 ---
 
