@@ -2,7 +2,7 @@
 layout: post
 title:  "Clasificados IOI Egipto - 2024"
 categories: [ noticias, oci, campamento, ioi, resultados ]
-image: premiacion-nacional.jpg
+image: 2023-premiacion-nacional.jpg
 thumbnail: ioi-2024.png
 ---
 
