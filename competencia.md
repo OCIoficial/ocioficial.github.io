@@ -42,6 +42,7 @@ La competencia consta de las siguientes fases:
 	* Consumir snacks y líquidos en un espacio apto para ello.
 	* Contar con una pequeña mascota en el espacio de trabajo (peluche o figura de buena suerte).
 	* Imprimir el set de problemas, si existe una impresora disponible.
+* En el [Syllabus oficial](https://github.com/OCIoficial/syllabus/releases/latest/download/oci-syllabus.pdf) puedes encontrar una lista con todos los temas que pueden ser evaluados en la competencia.
 
 **Al participar de cualquiera de las fases de la Olimpiada, las y los competidores aceptan las reglas de la competencia. Ante cualquier incumplimiento de estas por parte de un/a participante, así como otros comportamientos no descritos que signifiquen una falta a la honestidad o constituyan una ofensa hacia cualquier miembro de la comunidad, se aplicará la sanción que el Directorio de la OCI estime conveniente, incluyendo la descalificación inmediata y prohibición de participar en futuras competencias.**
 
