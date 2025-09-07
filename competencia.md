@@ -47,7 +47,7 @@ La competencia consta de las siguientes fases:
 **Al participar de cualquiera de las fases de la Olimpiada, las y los competidores aceptan las reglas de la competencia. Ante cualquier incumplimiento de estas por parte de un/a participante, así como otros comportamientos no descritos que signifiquen una falta a la honestidad o constituyan una ofensa hacia cualquier miembro de la comunidad, se aplicará la sanción que el Directorio de la OCI estime conveniente, incluyendo la descalificación inmediata y prohibición de participar en futuras competencias.**
 
 ## Lenguajes de programación soportados
-En la edición 2024, los participantes podrán enviar soluciones usando C++ y Java.
+En la edición 2025, los participantes podrán enviar soluciones usando Python y C++.
 
 ## Puntajes y ganadores
 Cada problema de la Olimpiada tiene un máximo de 100 puntos, y es posible obtener un puntaje parcial según qué tan buena sea la solución y las restricciones descritas en el enunciado del problema. El puntaje total de un competidor en una fase de la competencia es la suma de los puntajes máximos de cada problema para esa fase de la Olimpiada.
