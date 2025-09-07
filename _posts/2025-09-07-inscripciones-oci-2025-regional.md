@@ -21,7 +21,7 @@ La competencia se realizará el sábado 27 de septiembre y tendrá una duración
 La olimpiada se llevará a cabo de forma presencial en distintas sedes distribuidas a lo largo del país. Cada sede será informada y asignada a los participantes según su región y la cantidad de inscritos. En casos excepcionales, solo cuando no exista una sede cercana, se permitirá participar de manera online.
 
 ### ¿Quiénes pueden participar?
-Cualquier estudiante de 7° básico a 4° medio enrolados en algún establecimiento educacional chileno.
+Cualquier estudiante de 7° básico a 4° medio.
 
 ### ¿Qué necesito saber?
 Solo necesitas conocimientos básicos de programación en Python o C++. No importa si estás comenzando o ya has participado antes, te llevarás una gran experiencia!
