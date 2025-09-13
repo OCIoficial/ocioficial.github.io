@@ -15,7 +15,7 @@ La **Olimpiada Chilena de Informática (OCI)** es la competencia de programació
 ---
 
 ### ¿Cuándo es?
-La competencia se realizará el sábado 27 de septiembre y tendrá una duración de 4 horas.
+La competencia se realizará el sábado 27 de septiembre de 9:00 a 13:00 hrs (duración de 4 horas).
 
 ### ¿Dónde es?
 La olimpiada se llevará a cabo de forma presencial en distintas sedes distribuidas a lo largo del país. Cada sede será informada y asignada a los participantes según su región y la cantidad de inscritos. En casos excepcionales, solo cuando no exista una sede cercana, se permitirá participar de manera online.
