@@ -24,7 +24,7 @@ La olimpiada se llevará a cabo de forma presencial en distintas sedes distribui
 Cualquier estudiante de enseñanza básica o media.
 
 ### ¿Qué necesito saber?
-Solo necesitas conocimientos básicos de programación en Python o C++. No importa si estás comenzando o ya has participado antes, te llevarás una gran experiencia!
+Solo necesitas conocimientos básicos de programación en Python, C++ o Java. No importa si estás comenzando o ya has participado antes, te llevarás una gran experiencia!
 
 ---
 
