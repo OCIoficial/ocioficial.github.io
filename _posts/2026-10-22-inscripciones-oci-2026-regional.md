@@ -21,7 +21,7 @@ La fase regional se realizará el **sábado 14 de noviembre** con el siguiente i
 * 9:00 - 9:30: Llegada de los participantes, introducción y reglas
 * 9:30 - 13:30: Fase Regional de la Olimpiada Chilena de Informática
 
-Quienes clasifiquen participarán en la Final Nacional, el **viernes 5 de diciembre**.
+Quienes clasifiquen participarán en la Final Nacional, el **sábado 12 de diciembre**.
 
 ### ¿Dónde es?
 La olimpiada se llevará a cabo de forma presencial en distintas sedes distribuidas a lo largo del país. Al inscribirte deberás elegir la sede en la que participarás. Actualmente tenemos sedes confirmadas en **Coquimbo, Valparaíso, Santiago, Chillán, Concepción, Valdivia, Osorno, Puerto Montt y Castro**.
